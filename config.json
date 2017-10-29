@@ -1,0 +1,6 @@
+{
+  "app_id": "<the_id_of_your_fb_app>",
+  "app_secret": "<the_secret_of_your_fb_app>",
+  "access_token": "<your_60_day_fb_user_token>",
+  "view_id": "<your_ga_view_id"
+}
